@@ -787,3 +787,6 @@
 {"n":787,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Stockyard fence. Nobody past the south mouth. We hold in 2 steps. Arc on the left lane, open."}
 {"n":788,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
 {"n":789,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. arc left open. 4 steps. The drum stays for the hold."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Stockyard fence. Nobody past the south mouth. We hold in 5 steps. Arc on the left lane, open."}
+{"n":791,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the drum for the hold. 6 steps, arc on the left lane, open."}
+{"n":792,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. arc left open. 7 steps. The drum stays for the hold."}
