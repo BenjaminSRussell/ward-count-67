@@ -588,3 +588,6 @@
 {"n":588,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west dock. Ivo keeps the shutter for the hold. 4 steps, arc on the left lane, open."}
 {"n":589,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west dock. arc left open. 5 steps. The shutter stays for the hold."}
 {"n":590,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at High line. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
+{"n":591,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west dock. Bess keeps the shutter for the hold. 7 steps, arc on the left lane, open."}
+{"n":592,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. arc left open. 8 steps. The shutter stays for the hold."}
+{"n":593,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Ward gate. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
