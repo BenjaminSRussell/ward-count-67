@@ -617,3 +617,6 @@
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south dock. arc left open. 7 steps. The hydrant stays for the hold."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Drydock. Nobody past the south dock. We hold in 8 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south dock. Bess keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south dock. arc left open. 3 steps. The hydrant stays for the hold."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at High line. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south dock. Matt keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
