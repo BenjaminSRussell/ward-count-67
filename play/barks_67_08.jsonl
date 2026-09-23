@@ -825,3 +825,6 @@
 {"n":825,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south dock. Nia keeps the drum for the hold. 4 steps, arc on the left lane, open."}
 {"n":826,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south dock. arc left open. 5 steps. The drum stays for the hold."}
 {"n":827,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Kessler alley. Nobody past the south dock. We hold in 6 steps. Arc on the left lane, open."}
+{"n":828,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south dock. Ivo keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south dock. arc left open. 8 steps. The drum stays for the hold."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Kessler alley. Nobody past the south dock. We hold in 2 steps. Arc on the left lane, open."}
