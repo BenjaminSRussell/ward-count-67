@@ -882,3 +882,6 @@
 {"n":882,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south dock. Matt keeps the drum for the hold. 5 steps, arc on the left lane, open."}
 {"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The drum stays for the hold."}
 {"n":884,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Mast yard. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
+{"n":885,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard south dock. Nia keeps the drum for the hold. 8 steps, arc on the left lane, open."}
+{"n":886,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south dock. arc left open. 2 steps. The drum stays for the hold."}
+{"n":887,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Mast yard. Nobody past the south dock. We hold in 3 steps. Arc on the left lane, open."}
