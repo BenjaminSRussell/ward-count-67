@@ -373,3 +373,6 @@
 {"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west dock. arc left open. 6 steps. The rope stays for the hold."}
 {"n":374,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at the pier. Nobody past the west dock. We hold in 7 steps. Arc on the left lane, open."}
 {"n":375,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier west dock. Bess keeps the rope for the hold. 8 steps, arc on the left lane, open."}
+{"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. arc left open. 2 steps. The rope stays for the hold."}
+{"n":377,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Clinic roof. Nobody past the west dock. We hold in 3 steps. Arc on the left lane, open."}
+{"n":378,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the rope for the hold. 4 steps, arc on the left lane, open."}
