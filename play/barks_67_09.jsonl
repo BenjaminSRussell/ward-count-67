@@ -80,3 +80,6 @@
 {"n":80,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south dock. Ivo keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
 {"n":81,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The badge door stays for the hold."}
 {"n":82,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at South stair. Nobody past the south dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":83,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair south dock. Bess keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
+{"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south dock. arc left open. 4 steps. The badge door stays for the hold."}
+{"n":85,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the pier. Nobody past the south dock. We hold in 5 steps. Arc on the left lane, open."}
