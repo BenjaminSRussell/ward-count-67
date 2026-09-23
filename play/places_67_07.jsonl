@@ -518,3 +518,6 @@
 {"n":518,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south dock. arc left open. 6 steps. The hydrant stays for the hold."}
 {"n":519,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Mall court. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
 {"n":520,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court south dock. Ivo keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
+{"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south dock. arc left open. 2 steps. The hydrant stays for the hold."}
+{"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Mall court. Nobody past the south dock. We hold in 3 steps. Arc on the left lane, open."}
+{"n":523,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south dock. Bess keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
