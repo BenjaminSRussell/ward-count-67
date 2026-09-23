@@ -903,3 +903,6 @@
 {"n":903,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light south dock. Bess keeps the drum for the hold. 5 steps, arc on the left lane, open."}
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south dock. arc left open. 6 steps. The drum stays for the hold."}
 {"n":905,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at South stair. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair south dock. Matt keeps the drum for the hold. 8 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south dock. arc left open. 2 steps. The drum stays for the hold."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at South stair. Nobody past the south dock. We hold in 3 steps. Arc on the left lane, open."}
