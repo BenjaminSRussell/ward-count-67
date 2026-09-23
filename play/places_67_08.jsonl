@@ -70,3 +70,6 @@
 {"n":70,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south dock. arc left open. 5 steps. The lamp stays for the hold."}
 {"n":71,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at South stair. Nobody past the south dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":72,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south dock. Ivo keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
+{"n":73,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":74,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at South stair. Nobody past the south dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":75,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south dock. Bess keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
