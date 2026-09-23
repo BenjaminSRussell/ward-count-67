@@ -118,3 +118,6 @@
 {"n":118,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the south mouth. We hold in 5 steps. Arc on the left lane, open."}
 {"n":119,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the rebar for the hold. 6 steps, arc on the left lane, open."}
 {"n":120,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. arc left open. 7 steps. The rebar stays for the hold."}
+{"n":121,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Mall court. Nobody past the south mouth. We hold in 8 steps. Arc on the left lane, open."}
+{"n":122,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court south mouth. Matt keeps the rebar for the hold. 2 steps, arc on the left lane, open."}
+{"n":123,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south mouth. arc left open. 3 steps. The rebar stays for the hold."}
