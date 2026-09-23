@@ -644,3 +644,6 @@
 {"n":644,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley north dock. Ivo keeps the awning for the hold. 7 steps, arc on the left lane, open."}
 {"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north dock. arc left open. 8 steps. The awning stays for the hold."}
 {"n":646,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the north dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":647,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north dock. Bess keeps the awning for the hold. 3 steps, arc on the left lane, open."}
+{"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north dock. arc left open. 4 steps. The awning stays for the hold."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at the Lot. Nobody past the north dock. We hold in 5 steps. Arc on the left lane, open."}
