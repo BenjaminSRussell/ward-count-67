@@ -810,3 +810,6 @@
 {"n":810,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Mall court. Nobody past the west dock. We hold in 3 steps. Arc on the left lane, open."}
 {"n":811,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court west dock. Bess keeps the crate for the hold. 4 steps, arc on the left lane, open."}
 {"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. arc left open. 5 steps. The crate stays for the hold."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at the Underpass. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
+{"n":814,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass west dock. Matt keeps the crate for the hold. 7 steps, arc on the left lane, open."}
+{"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. arc left open. 8 steps. The crate stays for the hold."}
