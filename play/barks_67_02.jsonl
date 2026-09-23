@@ -336,3 +336,6 @@
 {"n":336,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the rope for the hold. 4 steps, arc on the left lane, open."}
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west dock. arc left open. 5 steps. The rope stays for the hold."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mast yard. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west dock. Bess keeps the rope for the hold. 7 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west dock. arc left open. 8 steps. The rope stays for the hold."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Last Light. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
