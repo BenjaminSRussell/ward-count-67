@@ -606,3 +606,6 @@
 {"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south mouth. arc left open. 3 steps. The awning stays for the hold."}
 {"n":607,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at the Lot. Nobody past the south mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":608,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the awning for the hold. 5 steps, arc on the left lane, open."}
+{"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. arc left open. 6 steps. The awning stays for the hold."}
+{"n":610,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the Lot. Nobody past the south mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":611,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south mouth. Bess keeps the awning for the hold. 8 steps, arc on the left lane, open."}
