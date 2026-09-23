@@ -483,3 +483,6 @@
 {"n":483,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the Underpass. Nobody past the west dock. We hold in 5 steps. Arc on the left lane, open."}
 {"n":484,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the hydrant for the hold. 6 steps, arc on the left lane, open."}
 {"n":485,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. arc left open. 7 steps. The hydrant stays for the hold."}
+{"n":486,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the Underpass. Nobody past the west dock. We hold in 8 steps. Arc on the left lane, open."}
+{"n":487,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west dock. Bess keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
+{"n":488,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west dock. arc left open. 3 steps. The hydrant stays for the hold."}
