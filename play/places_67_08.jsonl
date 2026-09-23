@@ -973,3 +973,6 @@
 {"n":973,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south dock. arc left open. 5 steps. The drum stays for the hold."}
 {"n":974,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at High line. Nobody past the south dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":975,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south dock. Bess keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":976,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. arc left open. 8 steps. The drum stays for the hold."}
+{"n":977,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Ward gate. Nobody past the south dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":978,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south dock. Matt keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
