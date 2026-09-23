@@ -458,3 +458,6 @@
 {"n":458,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Drydock. Nobody past the south dock. We hold in 8 steps. Arc on the left lane, open."}
 {"n":459,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south dock. Bess keeps the rope for the hold. 2 steps, arc on the left lane, open."}
 {"n":460,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south dock. arc left open. 3 steps. The rope stays for the hold."}
+{"n":461,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at High line. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":462,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south dock. Matt keeps the rope for the hold. 5 steps, arc on the left lane, open."}
+{"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south dock. arc left open. 6 steps. The rope stays for the hold."}
