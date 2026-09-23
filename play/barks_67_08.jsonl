@@ -669,3 +669,6 @@
 {"n":669,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south dock. Nia keeps the awning for the hold. 2 steps, arc on the left lane, open."}
 {"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south dock. arc left open. 3 steps. The awning stays for the hold."}
 {"n":671,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at the Lot. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":672,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south dock. Ivo keeps the awning for the hold. 5 steps, arc on the left lane, open."}
+{"n":673,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south dock. arc left open. 6 steps. The awning stays for the hold."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the Lot. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
