@@ -938,3 +938,6 @@
 {"n":938,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. arc left open. 5 steps. The lamp stays for the hold."}
 {"n":939,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Kessler alley. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":940,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
+{"n":941,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":942,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":943,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
