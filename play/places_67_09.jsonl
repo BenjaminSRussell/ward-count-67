@@ -558,3 +558,6 @@
 {"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west gutter. arc left open. 2 steps. The hydrant stays for the hold."}
 {"n":559,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Mast yard. Nobody past the west gutter. We hold in 3 steps. Arc on the left lane, open."}
 {"n":560,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
+{"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. arc left open. 5 steps. The hydrant stays for the hold."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west gutter. We hold in 6 steps. Arc on the left lane, open."}
+{"n":563,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
