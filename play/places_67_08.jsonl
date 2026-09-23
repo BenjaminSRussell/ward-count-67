@@ -538,3 +538,6 @@
 {"n":538,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south dock. arc left open. 4 steps. The shutter stays for the hold."}
 {"n":539,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at the Underpass. Nobody past the south dock. We hold in 5 steps. Arc on the left lane, open."}
 {"n":540,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south dock. Ivo keeps the shutter for the hold. 6 steps, arc on the left lane, open."}
+{"n":541,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south dock. arc left open. 7 steps. The shutter stays for the hold."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the Underpass. Nobody past the south dock. We hold in 8 steps. Arc on the left lane, open."}
+{"n":543,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south dock. Bess keeps the shutter for the hold. 2 steps, arc on the left lane, open."}
