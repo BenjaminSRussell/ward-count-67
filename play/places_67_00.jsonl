@@ -129,3 +129,6 @@
 {"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south mouth. arc left open. 2 steps. The rebar stays for the hold."}
 {"n":130,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Mall court. Nobody past the south mouth. We hold in 3 steps. Arc on the left lane, open."}
 {"n":131,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south mouth. Bess keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
+{"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south mouth. arc left open. 5 steps. The rebar stays for the hold."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at the Underpass. Nobody past the south mouth. We hold in 6 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south mouth. Matt keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
