@@ -779,3 +779,6 @@
 {"n":779,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Kessler alley. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":780,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. arc left open. 8 steps. The drum stays for the hold."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Kessler alley. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. arc left open. 4 steps. The drum stays for the hold."}
