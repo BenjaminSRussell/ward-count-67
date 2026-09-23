@@ -551,3 +551,6 @@
 {"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. arc left open. 4 steps. The hydrant stays for the hold."}
 {"n":552,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at Last Light. Nobody past the south dock. We hold in 5 steps. Arc on the left lane, open."}
 {"n":553,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light south dock. Nia keeps the hydrant for the hold. 6 steps, arc on the left lane, open."}
+{"n":554,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south dock. arc left open. 7 steps. The hydrant stays for the hold."}
+{"n":555,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Last Light. Nobody past the south dock. We hold in 8 steps. Arc on the left lane, open."}
+{"n":556,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light south dock. Ivo keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
