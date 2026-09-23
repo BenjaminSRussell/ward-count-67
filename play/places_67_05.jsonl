@@ -160,3 +160,6 @@
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east dock. arc left open. 7 steps. The radio coil stays for the hold."}
 {"n":161,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Mall court. Nobody past the east dock. We hold in 8 steps. Arc on the left lane, open."}
 {"n":162,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court east dock. Matt keeps the radio coil for the hold. 2 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east dock. arc left open. 3 steps. The radio coil stays for the hold."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at Mall court. Nobody past the east dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":165,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court east dock. Nia keeps the radio coil for the hold. 5 steps, arc on the left lane, open."}
