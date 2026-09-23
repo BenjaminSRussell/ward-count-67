@@ -945,3 +945,6 @@
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north dock. arc left open. 7 steps. The drum stays for the hold."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Drydock. Nobody past the north dock. We hold in 8 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north dock. Bess keeps the drum for the hold. 2 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north dock. arc left open. 3 steps. The drum stays for the hold."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at High line. Nobody past the north dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north dock. Matt keeps the drum for the hold. 5 steps, arc on the left lane, open."}
