@@ -417,3 +417,6 @@
 {"n":417,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier south dock. Nia keeps the rope for the hold. 2 steps, arc on the left lane, open."}
 {"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south dock. arc left open. 3 steps. The rope stays for the hold."}
 {"n":419,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at the pier. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":420,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south dock. Ivo keeps the rope for the hold. 5 steps, arc on the left lane, open."}
+{"n":421,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The rope stays for the hold."}
+{"n":422,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at the pier. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
