@@ -375,3 +375,6 @@
 {"n":375,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south dock. Bess keeps the rope for the hold. 2 steps, arc on the left lane, open."}
 {"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south dock. arc left open. 3 steps. The rope stays for the hold."}
 {"n":377,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Mast yard. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
+{"n":378,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard south dock. Matt keeps the rope for the hold. 5 steps, arc on the left lane, open."}
+{"n":379,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The rope stays for the hold."}
+{"n":380,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rope at Mast yard. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
