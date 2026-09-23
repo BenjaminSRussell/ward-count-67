@@ -658,3 +658,6 @@
 {"n":658,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south dock. arc left open. 5 steps. The awning stays for the hold."}
 {"n":659,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Kessler alley. Nobody past the south dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":660,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south dock. Ivo keeps the awning for the hold. 7 steps, arc on the left lane, open."}
+{"n":661,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south dock. arc left open. 8 steps. The awning stays for the hold."}
+{"n":662,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the south dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":663,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south dock. Bess keeps the awning for the hold. 3 steps, arc on the left lane, open."}
