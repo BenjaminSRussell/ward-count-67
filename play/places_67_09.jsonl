@@ -849,3 +849,6 @@
 {"n":849,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. arc left open. 6 steps. The crate stays for the hold."}
 {"n":850,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the Lot. Nobody past the west gutter. We hold in 7 steps. Arc on the left lane, open."}
 {"n":851,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west gutter. Bess keeps the crate for the hold. 8 steps, arc on the left lane, open."}
+{"n":852,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. arc left open. 2 steps. The crate stays for the hold."}
+{"n":853,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Stockyard fence. Nobody past the west gutter. We hold in 3 steps. Arc on the left lane, open."}
+{"n":854,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence west gutter. Matt keeps the crate for the hold. 4 steps, arc on the left lane, open."}
