@@ -450,3 +450,6 @@
 {"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. arc left open. 8 steps. The shutter stays for the hold."}
 {"n":451,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Stockyard fence. Nobody past the south mouth. We hold in 2 steps. Arc on the left lane, open."}
 {"n":452,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
+{"n":453,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. arc left open. 4 steps. The shutter stays for the hold."}
+{"n":454,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the south mouth. We hold in 5 steps. Arc on the left lane, open."}
+{"n":455,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the shutter for the hold. 6 steps, arc on the left lane, open."}
