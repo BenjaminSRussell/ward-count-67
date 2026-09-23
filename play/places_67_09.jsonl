@@ -336,3 +336,6 @@
 {"n":336,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The plywood stays for the hold."}
 {"n":337,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at the Lot. Nobody past the west gutter. We hold in 5 steps. Arc on the left lane, open."}
 {"n":338,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west gutter. Matt keeps the plywood for the hold. 6 steps, arc on the left lane, open."}
+{"n":339,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west gutter. arc left open. 7 steps. The plywood stays for the hold."}
+{"n":340,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at the Lot. Nobody past the west gutter. We hold in 8 steps. Arc on the left lane, open."}
+{"n":341,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west gutter. Nia keeps the plywood for the hold. 2 steps, arc on the left lane, open."}
