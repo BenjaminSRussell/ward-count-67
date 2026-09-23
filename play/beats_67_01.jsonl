@@ -306,3 +306,6 @@
 {"n":306,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Mall court. Nobody past the west dock. We hold in 3 steps. Arc on the left lane, open."}
 {"n":307,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west dock. Bess keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
 {"n":308,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. arc left open. 5 steps. The plywood stays for the hold."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at the Underpass. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
+{"n":310,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west dock. Matt keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
+{"n":311,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. arc left open. 8 steps. The plywood stays for the hold."}
