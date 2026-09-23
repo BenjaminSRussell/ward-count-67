@@ -518,3 +518,6 @@
 {"n":518,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west dock. arc left open. 5 steps. The hydrant stays for the hold."}
 {"n":519,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at South stair. Nobody past the west dock. We hold in 6 steps. Arc on the left lane, open."}
 {"n":520,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair west dock. Ivo keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
+{"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west dock. arc left open. 8 steps. The hydrant stays for the hold."}
+{"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at South stair. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":523,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair west dock. Bess keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
