@@ -972,3 +972,6 @@
 {"n":972,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Mall court. Nobody past the west dock. We hold in 4 steps. Arc on the left lane, open."}
 {"n":973,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court west dock. Nia keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
 {"n":974,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west dock. arc left open. 6 steps. The lamp stays for the hold."}
+{"n":975,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Mall court. Nobody past the west dock. We hold in 7 steps. Arc on the left lane, open."}
+{"n":976,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the lamp for the hold. 8 steps, arc on the left lane, open."}
+{"n":977,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The lamp stays for the hold."}
