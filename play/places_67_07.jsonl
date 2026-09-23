@@ -578,3 +578,6 @@
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south dock. arc left open. 3 steps. The hydrant stays for the hold."}
 {"n":579,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the pier. Nobody past the south dock. We hold in 4 steps. Arc on the left lane, open."}
 {"n":580,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south dock. Ivo keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The hydrant stays for the hold."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the pier. Nobody past the south dock. We hold in 7 steps. Arc on the left lane, open."}
+{"n":583,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south dock. Bess keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
