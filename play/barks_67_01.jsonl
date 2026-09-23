@@ -268,3 +268,6 @@
 {"n":268,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
 {"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. arc left open. 8 steps. The plywood stays for the hold."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west dock. We hold in 2 steps. Arc on the left lane, open."}
+{"n":271,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
+{"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. arc left open. 4 steps. The plywood stays for the hold."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at the Lot. Nobody past the west dock. We hold in 5 steps. Arc on the left lane, open."}
