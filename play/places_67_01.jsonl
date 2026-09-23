@@ -161,3 +161,6 @@
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south mouth. arc left open. 5 steps. The radio coil stays for the hold."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Mast yard. Nobody past the south mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":163,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south mouth. Bess keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south mouth. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Last Light. Nobody past the south mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south mouth. Matt keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
